@@ -32,6 +32,9 @@ MongoDB , Mysql ...
 
 Welcome to Simon Says, the classic memory game now available in an online version! Challenge yourself and test your memory skills by following the flashing sequence of buttons. See how far you can go and climb the levels, but be careful – one wrong move, and it's game over!
 
+## website url 🔗
+https://darshilptl-simon-says-game.vercel.app/
+
 # Getting Started
 1) Launch the Game :
 
@@ -55,10 +58,16 @@ Memorize the sequence and replicate it by pressing the correct buttons.
 - Press any key to restart and continue the challenge.
 ## Screenshots
 
-<!-- ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here) -->
+![1](https://github.com/darshilptl/simon-says-game/assets/105098994/aeca6bf8-e9e5-4e06-92de-165f2a5463ec)
 
+![2](https://github.com/darshilptl/simon-says-game/assets/105098994/9dd96ebe-9b31-46ff-92dd-e73fc2a52080)
 
-## Run Locally
+![2](https://github.com/darshilptl/simon-says-game/assets/105098994/780afb65-b0df-4a03-91e7-4029bd829701)
+
+![4](https://github.com/darshilptl/simon-says-game/assets/105098994/4fafea24-315a-44a3-919f-28100ead0373)
+
+## Run Locally![3](https://github.com/darshilptl/simon-says-game/assets/105098994/c22996de-3eac-49b4-b210-186dbde86f87)
+
 
 Clone the project
 
